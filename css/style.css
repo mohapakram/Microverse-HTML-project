@@ -4,3 +4,20 @@
   margin: auto 0;
   display: block;
 }
+
+body {
+  text-align: center;
+}
+
+#img-caption {
+  padding: 2%;
+}
+
+#tribute-info {
+  font-style: italic;
+  padding: 2%;
+}
+
+#link-container {
+  padding: 2%;
+}
